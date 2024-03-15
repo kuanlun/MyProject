@@ -1,0 +1,260 @@
+D:\Lief\SPM\SPM\bin\Debug\SPM.exe.config
+D:\Lief\SPM\SPM\bin\Debug\SPM.exe
+D:\Lief\SPM\SPM\bin\Debug\SPM.pdb
+D:\Lief\SPM\SPM\obj\Debug\SPM.Form1.resources
+D:\Lief\SPM\SPM\obj\Debug\SPM.Properties.Resources.resources
+D:\Lief\SPM\SPM\obj\Debug\SPM.csproj.GenerateResource.cache
+D:\Lief\SPM\SPM\obj\Debug\SPM.csproj.CoreCompileInputs.cache
+D:\Lief\SPM\SPM\obj\Debug\SPM.exe
+D:\Lief\SPM\SPM\obj\Debug\SPM.pdb
+D:\Lief\SPM\SPM\obj\Debug\SPM.Form2.resources
+D:\Lief\SPM\SPM\obj\Debug\SPM.csprojAssemblyReference.cache
+D:\Lief\SPM\SPM\obj\Debug\SPM.Form3.resources
+C:\Users\g01044\Desktop\專案\SMT DELL issues\SPM\SPM\SPM\bin\Debug\SPM.exe.config
+C:\Users\g01044\Desktop\專案\SMT DELL issues\SPM\SPM\SPM\bin\Debug\SPM.exe
+C:\Users\g01044\Desktop\專案\SMT DELL issues\SPM\SPM\SPM\bin\Debug\SPM.pdb
+C:\Users\g01044\Desktop\專案\SMT DELL issues\SPM\SPM\SPM\obj\Debug\SPM.csprojAssemblyReference.cache
+C:\Users\g01044\Desktop\專案\SMT DELL issues\SPM\SPM\SPM\obj\Debug\SPM.Form1.resources
+C:\Users\g01044\Desktop\專案\SMT DELL issues\SPM\SPM\SPM\obj\Debug\SPM.Form2.resources
+C:\Users\g01044\Desktop\專案\SMT DELL issues\SPM\SPM\SPM\obj\Debug\SPM.Properties.Resources.resources
+C:\Users\g01044\Desktop\專案\SMT DELL issues\SPM\SPM\SPM\obj\Debug\SPM.csproj.GenerateResource.cache
+C:\Users\g01044\Desktop\專案\SMT DELL issues\SPM\SPM\SPM\obj\Debug\SPM.csproj.CoreCompileInputs.cache
+C:\Users\g01044\Desktop\專案\SMT DELL issues\SPM\SPM\SPM\obj\Debug\SPM.exe
+C:\Users\g01044\Desktop\專案\SMT DELL issues\SPM\SPM\SPM\obj\Debug\SPM.pdb
+C:\Users\g01044\Desktop\專案\SMT DELL issues\SPM\SPM\SPM\obj\Debug\SPM.GoodIssue.resources
+C:\Users\g01044\Desktop\專案\SMT DELL issues\SPM\SPM\SPM\obj\Debug\SPM.Login.resources
+C:\Users\g01044\Desktop\專案\SMT DELL issues\SPM\SPM\SPM\obj\Debug\SPM.SolderEnd.resources
+C:\Users\g01044\Desktop\專案\SMT DELL issues\SPM\SPM\SPM\obj\Debug\SPM.Form4.resources
+C:\Users\g01044\Desktop\專案\SMT DELL issues\SPM\SPM\SPM\obj\Debug\SPM.Form5.resources
+C:\Users\g01044\Desktop\專案\SMT DELL issues\SPM\SPM\SPM\obj\Debug\SPM.QueryPerSolder.resources
+C:\Users\g01044\Desktop\專案\SMT DELL issues\SPM\SPM\SPM\obj\Debug\SPM.exe.manifest
+C:\Users\g01044\Desktop\專案\SMT DELL issues\SPM\SPM\SPM\bin\Debug\SPM.exe.manifest
+C:\Users\g01044\Desktop\專案\SMT DELL issues\SPM\SPM\SPM\bin\Debug\SPM.application
+C:\Users\g01044\Desktop\專案\SMT DELL issues\SPM\SPM\SPM\obj\Debug\SPM.application
+D:\Work\project\SPM\SPM\SPM\SPM\bin\Debug\SPM.exe.config
+D:\Work\project\SPM\SPM\SPM\SPM\bin\Debug\SPM.exe.manifest
+D:\Work\project\SPM\SPM\SPM\SPM\bin\Debug\SPM.application
+D:\Work\project\SPM\SPM\SPM\SPM\bin\Debug\SPM.exe
+D:\Work\project\SPM\SPM\SPM\SPM\bin\Debug\SPM.pdb
+D:\Work\project\SPM\SPM\SPM\SPM\obj\Debug\SPM.csprojAssemblyReference.cache
+D:\Work\project\SPM\SPM\SPM\SPM\obj\Debug\SPM.Form1.resources
+D:\Work\project\SPM\SPM\SPM\SPM\obj\Debug\SPM.Form2.resources
+D:\Work\project\SPM\SPM\SPM\SPM\obj\Debug\SPM.Form4.resources
+D:\Work\project\SPM\SPM\SPM\SPM\obj\Debug\SPM.Form5.resources
+D:\Work\project\SPM\SPM\SPM\SPM\obj\Debug\SPM.GoodIssue.resources
+D:\Work\project\SPM\SPM\SPM\SPM\obj\Debug\SPM.Login.resources
+D:\Work\project\SPM\SPM\SPM\SPM\obj\Debug\SPM.Properties.Resources.resources
+D:\Work\project\SPM\SPM\SPM\SPM\obj\Debug\SPM.QueryPerSolder.resources
+D:\Work\project\SPM\SPM\SPM\SPM\obj\Debug\SPM.SolderEnd.resources
+D:\Work\project\SPM\SPM\SPM\SPM\obj\Debug\SPM.csproj.GenerateResource.cache
+D:\Work\project\SPM\SPM\SPM\SPM\obj\Debug\SPM.csproj.CoreCompileInputs.cache
+D:\Work\project\SPM\SPM\SPM\SPM\obj\Debug\SPM.exe.manifest
+D:\Work\project\SPM\SPM\SPM\SPM\obj\Debug\SPM.application
+D:\Work\project\SPM\SPM\SPM\SPM\obj\Debug\SPM.exe
+D:\Work\project\SPM\SPM\SPM\SPM\obj\Debug\SPM.pdb
+C:\Users\g01044\Desktop\專案\SMT DELL issues\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.csprojAssemblyReference.cache
+C:\Users\g01044\Desktop\專案\SMT DELL issues\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.Form1.resources
+C:\Users\g01044\Desktop\專案\SMT DELL issues\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.Form2.resources
+C:\Users\g01044\Desktop\專案\SMT DELL issues\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.Form4.resources
+C:\Users\g01044\Desktop\專案\SMT DELL issues\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.Form5.resources
+C:\Users\g01044\Desktop\專案\SMT DELL issues\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.GoodIssue.resources
+C:\Users\g01044\Desktop\專案\SMT DELL issues\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.Login.resources
+C:\Users\g01044\Desktop\專案\SMT DELL issues\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.Properties.Resources.resources
+C:\Users\g01044\Desktop\專案\SMT DELL issues\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.QueryPerSolder.resources
+C:\Users\g01044\Desktop\專案\SMT DELL issues\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.SolderEnd.resources
+C:\Users\g01044\Desktop\專案\SMT DELL issues\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.csproj.GenerateResource.cache
+C:\Users\g01044\Desktop\專案\SMT DELL issues\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.csproj.CoreCompileInputs.cache
+C:\Users\g01044\Desktop\專案\SMT DELL issues\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.exe
+C:\Users\g01044\Desktop\專案\SMT DELL issues\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.pdb
+C:\Users\g01044\Desktop\專案\SMT DELL issues\lief\SPM\SPM\SPM\SPM\bin\Debug\SPM.exe.config
+C:\Users\g01044\Desktop\專案\SMT DELL issues\lief\SPM\SPM\SPM\SPM\bin\Debug\SPM.exe.manifest
+C:\Users\g01044\Desktop\專案\SMT DELL issues\lief\SPM\SPM\SPM\SPM\bin\Debug\SPM.application
+C:\Users\g01044\Desktop\專案\SMT DELL issues\lief\SPM\SPM\SPM\SPM\bin\Debug\SPM.exe
+C:\Users\g01044\Desktop\專案\SMT DELL issues\lief\SPM\SPM\SPM\SPM\bin\Debug\SPM.pdb
+C:\Users\g01044\Desktop\專案\SMT DELL issues\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.exe.manifest
+C:\Users\g01044\Desktop\專案\SMT DELL issues\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.application
+C:\Users\g01044\Desktop\專案\SMT DELL issues\lief\SPM\SPM\SPM\SPM\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\g01044\Desktop\專案\SMT DELL issues\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.csproj.CopyComplete
+C:\Users\g01044\Desktop\專案\SMT DELL issues\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.QueryHistory.resources
+C:\Users\g01044\Desktop\專案\SMT DELL issues\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.QueryStock.resources
+C:\Users\g01110\Desktop\lief\lief\SPM\SPM\SPM\SPM\bin\Debug\SPM.exe.config
+C:\Users\g01110\Desktop\lief\lief\SPM\SPM\SPM\SPM\bin\Debug\SPM.exe.manifest
+C:\Users\g01110\Desktop\lief\lief\SPM\SPM\SPM\SPM\bin\Debug\SPM.application
+C:\Users\g01110\Desktop\lief\lief\SPM\SPM\SPM\SPM\bin\Debug\SPM.exe
+C:\Users\g01110\Desktop\lief\lief\SPM\SPM\SPM\SPM\bin\Debug\SPM.pdb
+C:\Users\g01110\Desktop\lief\lief\SPM\SPM\SPM\SPM\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\g01110\Desktop\lief\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.csprojAssemblyReference.cache
+C:\Users\g01110\Desktop\lief\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.Form1.resources
+C:\Users\g01110\Desktop\lief\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.Form2.resources
+C:\Users\g01110\Desktop\lief\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.Form4.resources
+C:\Users\g01110\Desktop\lief\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.Form5.resources
+C:\Users\g01110\Desktop\lief\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.GoodIssue.resources
+C:\Users\g01110\Desktop\lief\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.Login.resources
+C:\Users\g01110\Desktop\lief\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.Properties.Resources.resources
+C:\Users\g01110\Desktop\lief\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.QueryHistory.resources
+C:\Users\g01110\Desktop\lief\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.QueryPerSolder.resources
+C:\Users\g01110\Desktop\lief\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.QueryStock.resources
+C:\Users\g01110\Desktop\lief\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.SolderEnd.resources
+C:\Users\g01110\Desktop\lief\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.csproj.GenerateResource.cache
+C:\Users\g01110\Desktop\lief\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.csproj.CoreCompileInputs.cache
+C:\Users\g01110\Desktop\lief\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.exe.manifest
+C:\Users\g01110\Desktop\lief\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.application
+C:\Users\g01110\Desktop\lief\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.csproj.CopyComplete
+C:\Users\g01110\Desktop\lief\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.exe
+C:\Users\g01110\Desktop\lief\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.pdb
+D:\Work\project\SPM_prd\SPM\SPM\SPM\bin\Debug\SPM.exe.config
+D:\Work\project\SPM_prd\SPM\SPM\SPM\bin\Debug\SPM.exe.manifest
+D:\Work\project\SPM_prd\SPM\SPM\SPM\bin\Debug\SPM.application
+D:\Work\project\SPM_prd\SPM\SPM\SPM\bin\Debug\SPM.exe
+D:\Work\project\SPM_prd\SPM\SPM\SPM\bin\Debug\SPM.pdb
+D:\Work\project\SPM_prd\SPM\SPM\SPM\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Work\project\SPM_prd\SPM\SPM\SPM\obj\Debug\SPM.csprojAssemblyReference.cache
+D:\Work\project\SPM_prd\SPM\SPM\SPM\obj\Debug\SPM.Form1.resources
+D:\Work\project\SPM_prd\SPM\SPM\SPM\obj\Debug\SPM.Form2.resources
+D:\Work\project\SPM_prd\SPM\SPM\SPM\obj\Debug\SPM.Form4.resources
+D:\Work\project\SPM_prd\SPM\SPM\SPM\obj\Debug\SPM.Form5.resources
+D:\Work\project\SPM_prd\SPM\SPM\SPM\obj\Debug\SPM.GoodIssue.resources
+D:\Work\project\SPM_prd\SPM\SPM\SPM\obj\Debug\SPM.Login.resources
+D:\Work\project\SPM_prd\SPM\SPM\SPM\obj\Debug\SPM.Properties.Resources.resources
+D:\Work\project\SPM_prd\SPM\SPM\SPM\obj\Debug\SPM.QueryHistory.resources
+D:\Work\project\SPM_prd\SPM\SPM\SPM\obj\Debug\SPM.QueryPerSolder.resources
+D:\Work\project\SPM_prd\SPM\SPM\SPM\obj\Debug\SPM.QueryStock.resources
+D:\Work\project\SPM_prd\SPM\SPM\SPM\obj\Debug\SPM.SolderEnd.resources
+D:\Work\project\SPM_prd\SPM\SPM\SPM\obj\Debug\SPM.csproj.GenerateResource.cache
+D:\Work\project\SPM_prd\SPM\SPM\SPM\obj\Debug\SPM.csproj.CoreCompileInputs.cache
+D:\Work\project\SPM_prd\SPM\SPM\SPM\obj\Debug\SPM.exe.manifest
+D:\Work\project\SPM_prd\SPM\SPM\SPM\obj\Debug\SPM.application
+D:\Work\project\SPM_prd\SPM\SPM\SPM\obj\Debug\SPM.csproj.CopyComplete
+D:\Work\project\SPM_prd\SPM\SPM\SPM\obj\Debug\SPM.exe
+D:\Work\project\SPM_prd\SPM\SPM\SPM\obj\Debug\SPM.pdb
+D:\lief\SPM\SPM\SPM\SPM\bin\Debug\SPM.exe.config
+D:\lief\SPM\SPM\SPM\SPM\bin\Debug\SPM.exe.manifest
+D:\lief\SPM\SPM\SPM\SPM\bin\Debug\SPM.application
+D:\lief\SPM\SPM\SPM\SPM\bin\Debug\SPM.exe
+D:\lief\SPM\SPM\SPM\SPM\bin\Debug\SPM.pdb
+D:\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.csprojAssemblyReference.cache
+D:\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.Form1.resources
+D:\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.Form2.resources
+D:\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.Form4.resources
+D:\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.Form5.resources
+D:\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.GoodIssue.resources
+D:\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.Login.resources
+D:\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.Properties.Resources.resources
+D:\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.QueryHistory.resources
+D:\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.QueryPerSolder.resources
+D:\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.QueryStock.resources
+D:\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.SolderEnd.resources
+D:\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.csproj.GenerateResource.cache
+D:\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.csproj.CoreCompileInputs.cache
+D:\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.exe.manifest
+D:\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.application
+D:\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.csproj.CopyComplete
+D:\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.exe
+D:\lief\SPM\SPM\SPM\SPM\obj\Debug\SPM.pdb
+C:\Users\kg01279\Desktop\MES\SPI_Source_20190918\SPM\SPM\SPM\bin\Debug\SPM.exe.config
+C:\Users\kg01279\Desktop\MES\SPI_Source_20190918\SPM\SPM\SPM\bin\Debug\SPM.exe.manifest
+C:\Users\kg01279\Desktop\MES\SPI_Source_20190918\SPM\SPM\SPM\bin\Debug\SPM.application
+C:\Users\kg01279\Desktop\MES\SPI_Source_20190918\SPM\SPM\SPM\bin\Debug\SPM.exe
+C:\Users\kg01279\Desktop\MES\SPI_Source_20190918\SPM\SPM\SPM\bin\Debug\SPM.pdb
+C:\Users\kg01279\Desktop\MES\SPI_Source_20190918\SPM\SPM\SPM\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\kg01279\Desktop\MES\SPI_Source_20190918\SPM\SPM\SPM\obj\Debug\SPM.csprojAssemblyReference.cache
+C:\Users\kg01279\Desktop\MES\SPI_Source_20190918\SPM\SPM\SPM\obj\Debug\SPM.Form1.resources
+C:\Users\kg01279\Desktop\MES\SPI_Source_20190918\SPM\SPM\SPM\obj\Debug\SPM.Form2.resources
+C:\Users\kg01279\Desktop\MES\SPI_Source_20190918\SPM\SPM\SPM\obj\Debug\SPM.Form4.resources
+C:\Users\kg01279\Desktop\MES\SPI_Source_20190918\SPM\SPM\SPM\obj\Debug\SPM.Form5.resources
+C:\Users\kg01279\Desktop\MES\SPI_Source_20190918\SPM\SPM\SPM\obj\Debug\SPM.GoodIssue.resources
+C:\Users\kg01279\Desktop\MES\SPI_Source_20190918\SPM\SPM\SPM\obj\Debug\SPM.Login.resources
+C:\Users\kg01279\Desktop\MES\SPI_Source_20190918\SPM\SPM\SPM\obj\Debug\SPM.Properties.Resources.resources
+C:\Users\kg01279\Desktop\MES\SPI_Source_20190918\SPM\SPM\SPM\obj\Debug\SPM.QueryHistory.resources
+C:\Users\kg01279\Desktop\MES\SPI_Source_20190918\SPM\SPM\SPM\obj\Debug\SPM.QueryPerSolder.resources
+C:\Users\kg01279\Desktop\MES\SPI_Source_20190918\SPM\SPM\SPM\obj\Debug\SPM.QueryStock.resources
+C:\Users\kg01279\Desktop\MES\SPI_Source_20190918\SPM\SPM\SPM\obj\Debug\SPM.SolderEnd.resources
+C:\Users\kg01279\Desktop\MES\SPI_Source_20190918\SPM\SPM\SPM\obj\Debug\SPM.csproj.GenerateResource.cache
+C:\Users\kg01279\Desktop\MES\SPI_Source_20190918\SPM\SPM\SPM\obj\Debug\SPM.csproj.CoreCompileInputs.cache
+C:\Users\kg01279\Desktop\MES\SPI_Source_20190918\SPM\SPM\SPM\obj\Debug\SPM.exe.manifest
+C:\Users\kg01279\Desktop\MES\SPI_Source_20190918\SPM\SPM\SPM\obj\Debug\SPM.application
+C:\Users\kg01279\Desktop\MES\SPI_Source_20190918\SPM\SPM\SPM\obj\Debug\SPM.csproj.CopyComplete
+C:\Users\kg01279\Desktop\MES\SPI_Source_20190918\SPM\SPM\SPM\obj\Debug\SPM.exe
+C:\Users\kg01279\Desktop\MES\SPI_Source_20190918\SPM\SPM\SPM\obj\Debug\SPM.pdb
+C:\Users\kg01279\Desktop\Goodway\SPM\SPM\bin\Debug\SPM.exe.config
+C:\Users\kg01279\Desktop\Goodway\SPM\SPM\bin\Debug\SPM.exe.manifest
+C:\Users\kg01279\Desktop\Goodway\SPM\SPM\bin\Debug\SPM.application
+C:\Users\kg01279\Desktop\Goodway\SPM\SPM\bin\Debug\SPM.exe
+C:\Users\kg01279\Desktop\Goodway\SPM\SPM\bin\Debug\SPM.pdb
+C:\Users\kg01279\Desktop\Goodway\SPM\SPM\obj\Debug\SPM.Form1.resources
+C:\Users\kg01279\Desktop\Goodway\SPM\SPM\obj\Debug\SPM.Form2.resources
+C:\Users\kg01279\Desktop\Goodway\SPM\SPM\obj\Debug\SPM.Form4.resources
+C:\Users\kg01279\Desktop\Goodway\SPM\SPM\obj\Debug\SPM.Form5.resources
+C:\Users\kg01279\Desktop\Goodway\SPM\SPM\obj\Debug\SPM.GoodIssue.resources
+C:\Users\kg01279\Desktop\Goodway\SPM\SPM\obj\Debug\SPM.Login.resources
+C:\Users\kg01279\Desktop\Goodway\SPM\SPM\obj\Debug\SPM.Properties.Resources.resources
+C:\Users\kg01279\Desktop\Goodway\SPM\SPM\obj\Debug\SPM.QueryHistory.resources
+C:\Users\kg01279\Desktop\Goodway\SPM\SPM\obj\Debug\SPM.QueryPerSolder.resources
+C:\Users\kg01279\Desktop\Goodway\SPM\SPM\obj\Debug\SPM.QueryStock.resources
+C:\Users\kg01279\Desktop\Goodway\SPM\SPM\obj\Debug\SPM.SolderEnd.resources
+C:\Users\kg01279\Desktop\Goodway\SPM\SPM\obj\Debug\SPM.csproj.GenerateResource.cache
+C:\Users\kg01279\Desktop\Goodway\SPM\SPM\obj\Debug\SPM.csproj.CoreCompileInputs.cache
+C:\Users\kg01279\Desktop\Goodway\SPM\SPM\obj\Debug\SPM.exe.manifest
+C:\Users\kg01279\Desktop\Goodway\SPM\SPM\obj\Debug\SPM.application
+C:\Users\kg01279\Desktop\Goodway\SPM\SPM\obj\Debug\SPM.csproj.CopyComplete
+C:\Users\kg01279\Desktop\Goodway\SPM\SPM\obj\Debug\SPM.exe
+C:\Users\kg01279\Desktop\Goodway\SPM\SPM\obj\Debug\SPM.pdb
+C:\Users\kg01279\Desktop\Goodway\SPM\SPM\obj\Debug\SPM.csprojAssemblyReference.cache
+D:\C#_ZSW\SPM_锡膏\SPM\SPM\bin\Debug\SPM.exe.config
+D:\C#_ZSW\SPM_锡膏\SPM\SPM\bin\Debug\SPM.exe.manifest
+D:\C#_ZSW\SPM_锡膏\SPM\SPM\bin\Debug\SPM.application
+D:\C#_ZSW\SPM_锡膏\SPM\SPM\bin\Debug\SPM.exe
+D:\C#_ZSW\SPM_锡膏\SPM\SPM\bin\Debug\SPM.pdb
+D:\C#_ZSW\SPM_锡膏\SPM\SPM\bin\Debug\DAL.dll
+D:\C#_ZSW\SPM_锡膏\SPM\SPM\bin\Debug\Models.dll
+D:\C#_ZSW\SPM_锡膏\SPM\SPM\bin\Debug\DAL.pdb
+D:\C#_ZSW\SPM_锡膏\SPM\SPM\bin\Debug\Models.pdb
+D:\C#_ZSW\SPM_锡膏\SPM\SPM\obj\Debug\SPM.csprojAssemblyReference.cache
+D:\C#_ZSW\SPM_锡膏\SPM\SPM\obj\Debug\SPM.Form1.resources
+D:\C#_ZSW\SPM_锡膏\SPM\SPM\obj\Debug\SPM.Form2.resources
+D:\C#_ZSW\SPM_锡膏\SPM\SPM\obj\Debug\SPM.Form4.resources
+D:\C#_ZSW\SPM_锡膏\SPM\SPM\obj\Debug\SPM.Form5.resources
+D:\C#_ZSW\SPM_锡膏\SPM\SPM\obj\Debug\SPM.GoodIssue.resources
+D:\C#_ZSW\SPM_锡膏\SPM\SPM\obj\Debug\SPM.Login.resources
+D:\C#_ZSW\SPM_锡膏\SPM\SPM\obj\Debug\SPM.Properties.Resources.resources
+D:\C#_ZSW\SPM_锡膏\SPM\SPM\obj\Debug\SPM.QueryHistory.resources
+D:\C#_ZSW\SPM_锡膏\SPM\SPM\obj\Debug\SPM.QueryPerSolder.resources
+D:\C#_ZSW\SPM_锡膏\SPM\SPM\obj\Debug\SPM.QueryStock.resources
+D:\C#_ZSW\SPM_锡膏\SPM\SPM\obj\Debug\SPM.SolderEnd.resources
+D:\C#_ZSW\SPM_锡膏\SPM\SPM\obj\Debug\SPM.FrmSurplusSolder.resources
+D:\C#_ZSW\SPM_锡膏\SPM\SPM\obj\Debug\SPM.csproj.GenerateResource.cache
+D:\C#_ZSW\SPM_锡膏\SPM\SPM\obj\Debug\SPM.csproj.CoreCompileInputs.cache
+D:\C#_ZSW\SPM_锡膏\SPM\SPM\obj\Debug\SPM.exe.manifest
+D:\C#_ZSW\SPM_锡膏\SPM\SPM\obj\Debug\SPM.application
+D:\C#_ZSW\SPM_锡膏\SPM\SPM\obj\Debug\SPM.csproj.CopyComplete
+D:\C#_ZSW\SPM_锡膏\SPM\SPM\obj\Debug\SPM.exe
+D:\C#_ZSW\SPM_锡膏\SPM\SPM\obj\Debug\SPM.pdb
+C:\Users\kuanlun\Desktop\SPM\SPM\bin\Debug\SPM.exe.config
+C:\Users\kuanlun\Desktop\SPM\SPM\bin\Debug\SPM.exe.manifest
+C:\Users\kuanlun\Desktop\SPM\SPM\bin\Debug\SPM.application
+C:\Users\kuanlun\Desktop\SPM\SPM\bin\Debug\SPM.exe
+C:\Users\kuanlun\Desktop\SPM\SPM\bin\Debug\SPM.pdb
+C:\Users\kuanlun\Desktop\SPM\SPM\bin\Debug\DAL.dll
+C:\Users\kuanlun\Desktop\SPM\SPM\bin\Debug\Models.dll
+C:\Users\kuanlun\Desktop\SPM\SPM\bin\Debug\DAL.pdb
+C:\Users\kuanlun\Desktop\SPM\SPM\bin\Debug\Models.pdb
+C:\Users\kuanlun\Desktop\SPM\SPM\obj\Debug\SPM.csprojAssemblyReference.cache
+C:\Users\kuanlun\Desktop\SPM\SPM\obj\Debug\SPM.Form1.resources
+C:\Users\kuanlun\Desktop\SPM\SPM\obj\Debug\SPM.Form2.resources
+C:\Users\kuanlun\Desktop\SPM\SPM\obj\Debug\SPM.Form4.resources
+C:\Users\kuanlun\Desktop\SPM\SPM\obj\Debug\SPM.Form5.resources
+C:\Users\kuanlun\Desktop\SPM\SPM\obj\Debug\SPM.GoodIssue.resources
+C:\Users\kuanlun\Desktop\SPM\SPM\obj\Debug\SPM.Login.resources
+C:\Users\kuanlun\Desktop\SPM\SPM\obj\Debug\SPM.Properties.Resources.resources
+C:\Users\kuanlun\Desktop\SPM\SPM\obj\Debug\SPM.QueryHistory.resources
+C:\Users\kuanlun\Desktop\SPM\SPM\obj\Debug\SPM.QueryPerSolder.resources
+C:\Users\kuanlun\Desktop\SPM\SPM\obj\Debug\SPM.QueryStock.resources
+C:\Users\kuanlun\Desktop\SPM\SPM\obj\Debug\SPM.SolderEnd.resources
+C:\Users\kuanlun\Desktop\SPM\SPM\obj\Debug\SPM.FrmSurplusSolder.resources
+C:\Users\kuanlun\Desktop\SPM\SPM\obj\Debug\SPM.csproj.GenerateResource.cache
+C:\Users\kuanlun\Desktop\SPM\SPM\obj\Debug\SPM.csproj.CoreCompileInputs.cache
+C:\Users\kuanlun\Desktop\SPM\SPM\obj\Debug\SPM.exe.manifest
+C:\Users\kuanlun\Desktop\SPM\SPM\obj\Debug\SPM.application
+C:\Users\kuanlun\Desktop\SPM\SPM\obj\Debug\SPM.csproj.CopyComplete
+C:\Users\kuanlun\Desktop\SPM\SPM\obj\Debug\SPM.exe
+C:\Users\kuanlun\Desktop\SPM\SPM\obj\Debug\SPM.pdb
